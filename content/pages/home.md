@@ -2,8 +2,11 @@
 template: HomePage
 slug: ''
 title: Capstone Technology
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: We get I.T. Stop worrying about I.T. so you can focus on the future.
+featuredImage: 'https://ucarecdn.com/5fbea5a2-092d-46b1-b42f-4ae9e2d9c6ea/'
+subtitle: |-
+  We get I.T. 
+
+  Stop worrying about I.T. so you can focus on the future.
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
