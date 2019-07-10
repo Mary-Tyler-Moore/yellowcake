@@ -7,6 +7,9 @@ subtitle: |-
   We get I.T. 
 
   Stop worrying about I.T. so you can focus on the future.
+accordion:
+  - content: Another content
+    title: Home-2
 meta:
   description: This is a meta description.
   title: Capstone Technology - We know I.T.
